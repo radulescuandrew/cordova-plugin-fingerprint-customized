@@ -1,0 +1,39 @@
+{
+  "name": "cordova-plugin-fingerprint-customized",
+  "version": "1.0.0",
+  "description": "A customizedCordova plugin to use fingerprint authentication on Android and iOS",
+  "cordova": {
+    "id": "cordova-plugin-fingerprint-customized",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radulescuandrew/cordova-plugin-fingerprint-customized"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "android",
+    "fingerprint",
+    "authentication",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "ios"
+  ],
+  "author": "Niklas Merz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radulescuandrew/cordova-plugin-fingerprint-customized/issues"
+  },
+  "homepage": "https://github.com/radulescuandrew/cordova-plugin-fingerprint-customized#readme",
+  "dependencies": {
+    "cordova-plugin-add-swift-support": "^1.7.0"
+  },
+  "devDependencies": {
+    "jasmine": "*"
+  }
+}
