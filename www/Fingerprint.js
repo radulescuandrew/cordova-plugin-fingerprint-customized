@@ -1,4 +1,4 @@
-cordova.define("cordova-plugin-fingerprint-customized.Fingerprint", function(require, exports, module) {
+
 function Fingerprint() {
 }
 
@@ -25,4 +25,3 @@ Fingerprint.prototype.isAvailable = function (successCallback, errorCallback) {
 Fingerprint = new Fingerprint();
 module.exports = Fingerprint;
 
-});
