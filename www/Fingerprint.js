@@ -1,4 +1,4 @@
-cordova.define("cordova-plugin-fingerprint-aio.Fingerprint", function(require, exports, module) {
+cordova.define("cordova-plugin-fingerprint-customized.Fingerprint", function(require, exports, module) {
 function Fingerprint() {
 }
 
