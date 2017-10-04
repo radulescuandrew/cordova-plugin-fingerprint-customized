@@ -1,12 +1,6 @@
 # Cordova Plugin Fingerprint Customized
 ## **Android** and **iOS**
 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/cordova-plugin-fingerprint-aio)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/NiklasMerz/cordova-plugin-fingerprint-aio/master/LICENSE)
-
-
-[![NPM](https://nodei.co/npm/cordova-plugin-fingerprint-aio.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/cordova-plugin-fingerprint-aio/)
-
 
 **This plugin provides a single and simple interface for accessing fingerprint APIs on both Android 6+ and iOS.**
 
