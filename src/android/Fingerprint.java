@@ -286,6 +286,8 @@ public class Fingerprint extends CordovaPlugin {
         } catch (InvalidKeyException e) {
             errorMessage = initCipherExceptionErrorPrefix
                     + "InvalidKeyException: " + e.toString();
+            createKey();
+            onAuthenticated(false);
         }
         if (!initCipher) {
             Log.e(TAG, errorMessage);
